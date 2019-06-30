@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "636b1cb6e302dc4acd66ff9f9477695e",
+    "revision": "c88d3ddfcbef09b8a9ca2d5c72acf305",
     "url": "/leniv/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leniv/static/css/2.c0911019.chunk.css"
   },
   {
-    "revision": "c9eca95a715e811d5ca6",
+    "revision": "6c819824521a78460be6",
     "url": "/leniv/static/css/main.b09ea883.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leniv/static/js/2.0c68b047.chunk.js"
   },
   {
-    "revision": "c9eca95a715e811d5ca6",
-    "url": "/leniv/static/js/main.bb3ac45d.chunk.js"
+    "revision": "6c819824521a78460be6",
+    "url": "/leniv/static/js/main.463a0455.chunk.js"
   },
   {
     "revision": "f36da968851e3432e7a0",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2c6cc7ddd9ccb2ac6408b3e2ff363c94",
     "url": "/leniv/static/media/profil.2c6cc7dd.jpg"
+  },
+  {
+    "revision": "da001ea59ff7c6b3c45d7da0a56d8978",
+    "url": "/leniv/static/media/pylystrichkovi.da001ea5.jpg"
   },
   {
     "revision": "14c6503490c6139009bb9eb96739efd8",
