@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body,h1,h2,h3,h4,h5,h6 {font-family: 'Roboto', sans-serif;}
+	body, html {
+	height: 100%;
+	color: #333;
+	line-height: 1.8;
+}
+
+a {
+	color: #333;
+	text-decoration: none;
+}
+
+.partners {
+	width: 40%;
+}
+
+.service {
+	width: 100%;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
+
+.contacts-office {
+	width: 18em;
+	height: 15em;
+	object-fit: cover;
+}
+
+.googlemaps {
+	max-width: 100%;
+}
+
+.gallery {
+	width: 100%;
+}
+
+#about, #products, #partners, #service, #contacts {
+	max-width: 1400px;
+}
