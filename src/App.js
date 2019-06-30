@@ -2,16 +2,16 @@ import React from 'react';
 import './css/App.css';
 import './css/w3.css';
 import Nav from './components/Nav';
-import Header from './components/Header';
 import Content from './components/Content';
 import Footer from './components/Footer';
+import SimpleSlider from './components/SimpleSlider'
 
 
 function App() {
   return (
     <div className="App">
       <Nav />
-      <Header />
+      <SimpleSlider />
       <Content />
       <Footer />
     </div>

@@ -3,8 +3,7 @@ import myNavbar from '../js/myNavbar.js';
 
 function Nav() {
   return (
-    <div className="App">
-    <div className="w3-top w3-text-sand">
+    <nav className="w3-top w3-text-sand">
     	<div className="w3-bar" id="myNavbar">
     		<a className="w3-bar-item w3-button w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu"><i className="fa fa-bars w3-text-blue"></i></a>
     		<a href="/#home" className="w3-bar-item w3-button w3-hide-small w3-hide-medium"><i className="fa fa-home"></i><strong> ГОЛОВНА</strong></a>
@@ -43,11 +42,10 @@ function Nav() {
     		<a href="/#service" className="w3-bar-item w3-button" onclick="toggleFunction()">СЕРВІС</a>
     		<a href="/#contacts" className="w3-bar-item w3-button" onclick="toggleFunction()">КОНТАКТИ</a>
     	</div>
-    </div>
-    <div className="w3-display-bottomright w3-margin">
-    	<a href="tel:+380963539657" className="w3-bar-item w3-text-blue w3-hover-blue w3-hide-large w3-xxlarge"><i className="fas fa-phone"></i></a>
-    </div>
-    </div>
+      <div className="w3-display-bottomright w3-margin">
+      	<a href="tel:+380963539657" className="w3-bar-item w3-text-blue w3-hover-blue w3-hide-large w3-xxlarge"><i className="fas fa-phone"></i></a>
+      </div>
+    </nav>
   );
 }
 

@@ -11,7 +11,7 @@ import Parallax4 from './Parallax4';
 
 function Content() {
   return (
-      <div className="App">
+      <content>
         <About />
         <Partners />
         <Parallax1 />
@@ -21,7 +21,7 @@ function Content() {
         <Parallax3 />
         <GoogleMaps />
         <Parallax4 />
-      </div>
+      </content>
   );
 }
 

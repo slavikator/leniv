@@ -3,7 +3,6 @@ import React from 'react';
 
 function About() {
   return (
-    <div className="App">
     <div className="w3-content w3-container w3-padding-64" id="about">
       <h3 className="w3-center">ПРО КОМПАНІЮ</h3>
       <div className="w3-panel">
@@ -23,7 +22,6 @@ function About() {
           На сьогоднішній день <strong>ТОВ «Ленів»</strong> є однією з найбільш розвинених компаній в Україні, яка займається виробництвом та сервісом інструменту для деревообробки.
         </p>
       </div>
-    </div>
     </div>
   );
 }

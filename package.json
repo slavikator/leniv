@@ -6,10 +6,13 @@
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
+    "react-animated-slider": "^1.1.4",
     "react-dom": "^16.8.6",
+    "react-flexible-carousel": "^1.2.6",
     "react-parallax": "^2.2.0",
     "react-scripts": "3.0.1",
     "react-scroll-parallax": "^2.1.2",
+    "react-slick": "^0.24.0",
     "react-slideshow-image": "^1.2.0"
   },
   "scripts": {

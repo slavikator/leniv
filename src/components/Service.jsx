@@ -2,7 +2,6 @@ import React from 'react';
 
 function Service() {
   return (
-    <div className="App">
     <div className="w3-content w3-container" id="service">
 			<div className="w3-container w3-padding-64">
 				<h3 className="w3-center">СЕРВІС</h3>
@@ -62,7 +61,6 @@ function Service() {
 				</div>
 			</div>
 		</div>
-    </div>
   );
 }
 

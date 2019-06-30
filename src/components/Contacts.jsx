@@ -2,7 +2,6 @@ import React from 'react';
 
 function Contacts() {
   return (
-    <div className="App">
       <div className="w3-content w3-container w3-padding-64" id="contacts">
         <h3 className="w3-center">КОНТАКТНА ІНФОРМАЦІЯ</h3>
         <div className="w3-row w3-section w3-hide-large">
@@ -22,7 +21,7 @@ function Contacts() {
         </div>
         <div className="w3-row w3-content w3-padding-32 w3-section w3-hide-small w3-hide-medium">
           <div className="w3-col m4 w3-margin-top">
-            <img src={require("../images/office.png")} className="w3-image w3-round" />
+            <img src={require("../images/office.png")} alt="" className="w3-image w3-round" />
           </div>
           <div className="w3-col m8 w3-panel">
             <div className="w3-large w3-margin-bottom">
@@ -39,7 +38,6 @@ function Contacts() {
 
         </div>
       </div>
-    </div>
   );
 }
 
